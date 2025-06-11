@@ -5,6 +5,7 @@ This project implements a simple reservation system for a tennis club as a Sprin
 ## Features
 
 - **CRUD operations on courts**
+- **CRD operations on surface types**
 - **RUD operations on reservations**
 - Retrieve reservations by:
   - **Court ID** (sorted by creation date)
